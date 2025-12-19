@@ -101,7 +101,7 @@ export default function ApiTest() {
         </div>
 
         <p style={{ color: "#374151", marginTop: 8 }}>
-          백엔드의 <code>/api-test</code> 엔드포인트를 호출해 통신 여부를 확인합니다.
+          백엔드의 <code>/api-test</code> 테스트중입니다
         </p>
 
         <div style={{ marginTop: 16, display: "flex", gap: 8 }}>
